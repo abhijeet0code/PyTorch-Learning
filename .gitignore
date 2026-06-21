@@ -1,0 +1,7 @@
+myenvpy/
+.vscode/
+__pycache__/
+*.pyc
+*.mp4
+*.js.map
+.ipynb_checkpoints/
